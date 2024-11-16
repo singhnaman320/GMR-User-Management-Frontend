@@ -19,7 +19,7 @@ Currently, two official plugins are available:
   - vite.config.js
   - package.json
 
-<h2>Tech-Stacks and Tools:</h2>
+<h1>Tech-Stacks and Tools:</h1>
 <table width = 100%>
 <tbody>
 <tr align="top">
